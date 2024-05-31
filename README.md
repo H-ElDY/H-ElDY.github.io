@@ -20,15 +20,26 @@ Here you will find some stuff about me in simple html until i get better at doin
   <li>I went to place to place in line with our current family statuses:
     <ul>To China from birth to 4 years of age;</ul>
     <ul>To HTX with my nuclear family to pursue my father's jobs;</ul>
-    <ul>To PearTX to finally settle in the vast suburbia famous to the one and only Houston</ul>
+    <ul>To PearTX to finally settle in the vast suburbia famous to the one and only Houston!</ul>
   </li>
   <li>In the places i went, i went to many a school:
-  <ul>To St. Lutherain for PK</ul>
-  <ul>To Mark Twain Elementary in HTX for 1-2 Primary School</ul>
-  <ul>To Kolter Elementary for 3-4</ul>
-  <ul>To Silvercrest in my latter semester of 4th</ul>
-  <ul>To leon Sablatura for Middle School</ul>
-  <ul>To PJHW for JH</ul>
+  <ul>To St. Lutherain for PK;</ul>
+  <ul>To Mark Twain Elementary in HTX for 1-2 Primary School;</ul>
+  <ul>To Kolter Elementary for 3-4;</ul>
+  <ul>To Silvercrest in my latter semester of 4th;</ul>
+  <ul>To leon Sablatura for Middle School;</ul>
+  <ul>To PJHW for JH;</ul>
   <ul>And finally, to DHS, where I am now.</ul>
 </li>
 </ul>
+<h3>BEFORE YOU ASK ME I AM AN INTP-T!! IK THIS WAS THE REASON I MADE THIS BUT i don't like how these personalities work. They are ambiguous and are only existent when the view is toward the general population, and even then they are not accurate in determining everything!</h3>
+<h3>Negative Adjectives about me:</h3>
+ik youre tired about the positive adjectives cuz they can literally apply to basically anyone at a point. so here are my negatives:
+<li>I am INSENSITIVE!!</li>
+  <ul>Yes, i may just say something very thoughtless and inconsiderate! I'm sorry if this ever is going to happen or happen to you, but please don't blame me cuz tHe pErSonAlItY qUiZ sAiD sO (i might, at that moment, underestimate your emotions or something)</ul>
+  <li>I am UNSATISFIED!!</li>
+  <ul>Again, i might let the impatient alpha wolf inside me do the job.</ul>
+  <li>I am a great OVERTHINKER!!</li>
+  <ul>I am <b>prone</b> to this! It's not that i might, I do have OCD or am on a spectrum of it, and it is prevalent in my dermatophagia <span class="spoiler">severe biting of skin around nails</span> if you want more proof of this, it falls under the DSM5's Obsessive-Compulsive and Related Disorders.</ul>
+  <li>I am UNEMPLOYED!</li>
+  <ul>it is what it is</ul>
