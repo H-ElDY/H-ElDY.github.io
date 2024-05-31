@@ -40,6 +40,6 @@ ik youre tired about the positive adjectives cuz they can literally apply to bas
   <li>I am UNSATISFIED!!</li>
   <ul>Again, i might let the impatient alpha wolf inside me do the job.</ul>
   <li>I am a great OVERTHINKER!!</li>
-  <ul>I am <b>prone</b> to this! It's not that i might, I do have OCD or am on a spectrum of it, and it is prevalent in my dermatophagia <span class="spoiler">severe biting of skin around nails</span> if you want more proof of this, it falls under the DSM5's Obsessive-Compulsive and Related Disorders.</ul>
+  <ul>I am <b>prone</b> to this! It's not that i might, I do have OCD or am on a spectrum of it, and it is prevalent in my dermatophagia <span class="spoiler">severe biting of skin around nails.</span> if you want more proof of this, it falls under the DSM5's Obsessive-Compulsive and Related Disorders.</ul>
   <li>I am UNEMPLOYED!</li>
   <ul>it is what it is</ul>
